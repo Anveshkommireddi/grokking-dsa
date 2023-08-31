@@ -7,8 +7,8 @@
 	<name>grokking-dsa</name>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<maven.compiler.source>1.18</maven.compiler.source>
-		<maven.compiler.target>1.18</maven.compiler.target>
+		<maven.compiler.source>18</maven.compiler.source>
+		<maven.compiler.target>18</maven.compiler.target>
 		<log4j2.version>2.15.0</log4j2.version>
 	</properties>
 
